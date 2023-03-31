@@ -1,7 +1,7 @@
 0x1D. C - Binary trees
 ======================
 
-- By [Dennisnderitu254](https://github.com/dennisnderitu254) and [Karivone](https://github.com/karivone)
+- By Muhamaddiis
 - Weight: 5
 
 Resources
@@ -2963,5 +2963,4 @@ What are the average time complexities of those operations on a Binary Heap (one
 
 **AUTHORS**
 
-- [Dennis Nderitu](https://github.com/dennisnderitu254)
-- [Karimi Yvonne](https://github.com/karivone)
+- [Muhamaddiis]
